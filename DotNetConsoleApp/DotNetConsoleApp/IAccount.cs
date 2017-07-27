@@ -1,4 +1,5 @@
-﻿namespace DotNetConsoleApp
+﻿
+namespace DotNetConsoleApp
 {
     public interface IAccount
     {

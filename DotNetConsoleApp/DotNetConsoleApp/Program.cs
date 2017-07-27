@@ -10,8 +10,7 @@ namespace DotNetConsoleApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hey...");
-
+            Console.WriteLine("Run the unit test please...");
         }
     }
 }
